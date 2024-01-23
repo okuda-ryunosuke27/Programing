@@ -13,6 +13,6 @@ class Barrier
 		~Barrier();
 
 		void Draw(const Vector2D& location);	//•`‰æˆ—
-		bool IsFinished(float speed);			//õ–½‚ªs‚«‚½‚©H
+		bool IsFinished(float speed);			//Œø‰Ê‚ªs‚«‚½‚©H
 };
 
